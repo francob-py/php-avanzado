@@ -16,9 +16,9 @@ Licencia: MIT
 
 - [PANEL DE CONTROL][1] Un vistazo rapido a los datos cargados en el sistema en tiempo real.
 - [MODULO]:[ACCION] En cada modulo desplegable se encuentra una acción determinada en un submenu.
-  -- [EMPLEADOS]:[LISTADO] Un formulario que sirve para listar todos los registros.
-  -- [EMPLEADOS]:[EDITAR] Un formulario que sirve para editar los datos del empleado.
-  -- [EMPLEADOS]:[BORRAR] Un formulario que sirve para borrar los datos del empleado.
+  - [EMPLEADOS]:[LISTADO] Un formulario que sirve para listar todos los registros.
+  - [EMPLEADOS]:[EDITAR] Un formulario que sirve para editar los datos del empleado.
+  - [EMPLEADOS]:[BORRAR] Un formulario que sirve para borrar los datos del empleado.
 
 ## Características Implementadas:
 
