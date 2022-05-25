@@ -8,14 +8,17 @@ Licencia: MIT
 
 ## General Information:
 
-- Main Project Site: https://github.com/francob-py
+- Repositorio: https://github.com/francob-py/php-avanzado/
 - User: user | Password: user
 - User: admin | Password: admin
 
 ## Estructura del Proyecto:
 
-- [PANEL DE CONTROL][1] (Un vistazo rapido a los datos cargados en el sistema en tiempo real)
-- [EMPLEADOS][2]: [AGREGAR][1] Un formulario que sirve para cargar los datos del empleado.
+- [PANEL DE CONTROL][1] Un vistazo rapido a los datos cargados en el sistema en tiempo real.
+- [MODULO]:[ACCION] En cada modulo desplegable se encuentra una acción determinada en un submenu.
+  -- [EMPLEADOS]:[LISTADO] Un formulario que sirve para listar todos los registros.
+  -- [EMPLEADOS]:[EDITAR] Un formulario que sirve para editar los datos del empleado.
+  -- [EMPLEADOS]:[BORRAR] Un formulario que sirve para borrar los datos del empleado.
 
 ## Características Implementadas:
 
@@ -26,10 +29,10 @@ Licencia: MIT
 
 ## Requerimientos:
 
-- Utilice PHP -v 7.2
+- PHP -v 7.2
 - MariaDB -v 10.4.24
 
 ## Inicio Rapido
 
 - Instale XAMPP -v 3.3.0, o Servidor LAMP.
-- coloque el contenido del repositorio en: XAMPP/htdocs o en LAMP /var/www/html/
+- Coloque el contenido del repositorio en: XAMPP/htdocs o en LAMP /var/www/html/
