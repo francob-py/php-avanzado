@@ -18,7 +18,7 @@ Licencia: MIT
 - [MODULO]:[ACCION] En cada modulo desplegable se encuentra una acción determinada en un submenu.
   - [EMPLEADOS]:[LISTADO] Un formulario que sirve para listar todos los registros.
   - [EMPLEADOS]:[EDITAR] Un formulario que sirve para editar los datos del empleado.
-  - [EMPLEADOS]:[BORRAR] Un formulario que sirve para borrar los datos del empleado.
+  - [EMPLEADOS]:[BORRAR] Borra un registro determinado.
 
 ## Características Implementadas:
 
